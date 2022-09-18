@@ -7,7 +7,7 @@ function App() {
         <h2>Clock</h2>
       </header>
       <div id="break-label">
-      
+      <h2>Break Length</h2>
       </div>
       <div>
 
