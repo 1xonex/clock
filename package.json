@@ -1,7 +1,7 @@
 {
   "name": "clock",
   "version": "0.1.0",
-  "homepage": "https://1xonex.github.io/clock",
+  "homepage": "https://1xonex.github.io/clock/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
